@@ -10,7 +10,7 @@
   - Phone
   - Email
   - Start date
-  - Meals (2, 3, 5)
+  - Meals
   - Invoice status (paid || unpaid)
   - Кнопка для перехода в заказ (пустышка)
 * Фильтрация в таблице
@@ -34,4 +34,4 @@
 
 Дизайн не важен, главное чтобы user friendly
 
-Заполнить таблицу можно данными из orders.json
+Заполнить таблицу можно данными из orders.csv
